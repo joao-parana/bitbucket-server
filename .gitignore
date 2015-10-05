@@ -1,0 +1,13 @@
+*.bin
+*.jar
+*.class
+atlassian-bitbucket-4.0.2.tar.gz
+build-image
+docker-entrypoint.sh
+install-mysql.bash
+run-container
+run-mysql.bash
+set_root_pw.sh
+start-all
+start-apache
+start-apache-and-mysql
